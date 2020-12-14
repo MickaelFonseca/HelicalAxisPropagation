@@ -1,0 +1,90 @@
+MP:
+    Required:
+        Bodymass: 92
+        Height: 1825
+        LeftLegLength: 975
+        RightLegLength: 970
+        LeftKneeWidth: 110
+        RightKneeWidth: 110
+        LeftAnkleWidth: 75
+        RightAnkleWidth: 75
+        LeftSoleDelta: 0
+        RightSoleDelta: 0
+        LeftShoulderOffset: 0
+        LeftElbowWidth: 0
+        LeftWristWidth: 0
+        LeftHandThickness: 0
+        RightShoulderOffset: 0
+        RightElbowWidth: 0
+        RightWristWidth: 0
+        RightHandThickness: 0
+    Optional:
+        InterAsisDistance: 0
+        LeftAsisTrocanterDistance: 0
+        LeftTibialTorsion: 0
+        LeftThighRotation: 0
+        LeftShankRotation: 0
+        RightAsisTrocanterDistance: 0
+        RightTibialTorsion: 0
+        RightThighRotation: 0
+        RightShankRotation: 0
+        LeftKneeFuncCalibrationOffset: 0
+        RightKneeFuncCalibrationOffset: 0
+
+Global:
+    Marker diameter: 14
+    Point suffix: PyCGM1_1
+
+Calibration:
+    StaticTrial: 20190821-SBNNN-VDEF-02.c3d
+    Left flat foot: True
+    Right flat foot: True
+
+Fitting:
+    Trials:
+        - File: 20190821-ABNNN-VDEF-04.c3d
+          Mfpa: XX
+        - File: 20190821-ABNNN-VDEF-03.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-08.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-10.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-03.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-01.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-02.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-01.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-03.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-06.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-08.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-02.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-06.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-10.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-04.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-07.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-05.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-11.c3d
+          Mfpa: XX
+        - File: 20190821-GBNNN-VDEF-05.c3d
+          Mfpa: XX
+        - File: 20190821-MBNNN-VDEF-09.c3d
+          Mfpa: XX
+        - File: 20190812-MBNNN-VDEF-08.c3d
+          Mfpa: XX
+        - File: 20190812-MBNNN-VDEF-09.c3d
+          Mfpa: XX
+        - File: 20190821-ABNNN-VDEF-02.c3d
+          Mfpa: XX

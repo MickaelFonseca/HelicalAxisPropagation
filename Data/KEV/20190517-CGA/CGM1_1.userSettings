@@ -1,0 +1,38 @@
+MP:
+    Required:
+        LeftSoleDelta: 0
+        RightSoleDelta: 0
+        Bodymass: 92
+        Height: 1830
+        LeftLegLength: 970
+        RightLegLength: 980
+        LeftKneeWidth: 110
+        RightKneeWidth: 110
+        LeftAnkleWidth: 70
+        RightAnkleWidth: 70
+    Optional:
+        InterAsisDistance: 0
+        LeftAsisTrocanterDistance: 0
+        LeftTibialTorsion: 0
+        LeftThighRotation: 0
+        LeftShankRotation: 0
+        RightAsisTrocanterDistance: 0
+        RightTibialTorsion: 0
+        RightThighRotation: 0
+        RightShankRotation: 0
+        LeftKneeFuncCalibrationOffset: 0
+        RightKneeFuncCalibrationOffset: 0
+
+Global:
+    Marker diameter: 12.5
+    Point suffix: PyCGM1_loloo
+
+Calibration:
+    Left flat foot: True
+    Right flat foot: True
+    StaticTrial: 20190517-SBNNN-VDEF-02.c3d
+
+Fitting:
+    Trials:
+        - File: 20190517-GBNNN-VDEF-08.c3d
+          Mfpa: XX

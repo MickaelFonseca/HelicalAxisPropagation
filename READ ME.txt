@@ -1,0 +1,11 @@
+Project:
+	- Quantify the propagation of error on the definition of Euler angles from single helical angle
+Involved:
+	- Mickael Fonseca
+	- Raphael Dumas
+	- Stephane Armand (secondary intervinient)
+Software:
+	- Matlab (sym lybrary)
+	- toolbox "Kinematics Inverse Dynamics" developed by R.Dumas
+Date begin
+	- Nov 2019

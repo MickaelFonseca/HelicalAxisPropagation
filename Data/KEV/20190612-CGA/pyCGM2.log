@@ -1,0 +1,47 @@
+[pyCGM2-INFO]-files-openFile : your file (CGM1_1.userSettings) matches yaml syntax
+[pyCGM2-INFO]-files-openFile : your file (CGM1-pyCGM2.settings) matches yaml syntax
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Calibration=============
+[pyCGM2-INFO]-files-openFile : your file (CGM1_1.userSettings) matches yaml syntax
+[pyCGM2-INFO]-files-openFile : your file (CGM1-pyCGM2.settings) matches yaml syntax
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Calibration=============
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimbTrunk
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : Static Calibration -----> Done
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Fitting=============
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-ABNNN-VDEF-04.c3d) processed
+[pyCGM2-INFO]-files-openFile : your file (CGM1_1.userSettings) matches yaml syntax
+[pyCGM2-INFO]-files-openFile : your file (CGM1-pyCGM2.settings) matches yaml syntax
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Calibration=============
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimbTrunk
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : Static Calibration -----> Done
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Fitting=============
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-ABNNN-VDEF-04.c3d) processed
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-ABNNN-VDEF-02.c3d) processed
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-ABNNN-VDEF-03.c3d) processed
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-GBNNN-VDEF-02.c3d) processed
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-GBNNN-VDEF-01.c3d) processed
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-GBNNN-VDEF-04.c3d) processed
+[pyCGM2-INFO]-forceplates-matchingFootSideOnForceplate : [pyCGM2]: Id of Force plate not detected
+[pyCGM2-WARNING]-forceplates-matchingFootSideOnForceplate : [pyCGM2] : automatic force plate assigment corrected  
+[pyCGM2-WARNING]-cgm1_1-fitting : Manual Force plate assignment : XX
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (20190612-GBNNN-VDEF-03.c3d) processed

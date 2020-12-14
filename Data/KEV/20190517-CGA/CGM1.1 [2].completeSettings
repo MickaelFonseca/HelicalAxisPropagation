@@ -1,0 +1,113 @@
+{
+    "Global": {
+        "Marker diameter": 12.5, 
+        "Point suffix": "PyCGM1_loloo"
+    }, 
+    "Translators": {
+        "LASI": "None", 
+        "RASI": "None", 
+        "LPSI": "None", 
+        "RPSI": "None", 
+        "RTHI": "None", 
+        "RKNE": "None", 
+        "RTIB": "None", 
+        "RANK": "None", 
+        "RMED": "None", 
+        "RHEE": "None", 
+        "RTOE": "None", 
+        "LTHI": "None", 
+        "LKNE": "None", 
+        "LTIB": "None", 
+        "LANK": "None", 
+        "LMED": "None", 
+        "LHEE": "None", 
+        "LTOE": "None", 
+        "C7": "None", 
+        "T10": "None", 
+        "CLAV": "None", 
+        "STRN": "None", 
+        "LFHD": "None", 
+        "LBHD": "None", 
+        "RFHD": "None", 
+        "RBHD": "None", 
+        "LSHO": "None", 
+        "LELB": "None", 
+        "LWRB": "None", 
+        "LWRA": "None", 
+        "LFIN": "None", 
+        "RSHO": "None", 
+        "RELB": "None", 
+        "RWRB": "None", 
+        "RWRA": "None", 
+        "RFIN": "None"
+    }, 
+    "Calibration": {
+        "Left flat foot": true, 
+        "Right flat foot": true, 
+        "StaticTrial": "20190517-SBNNN-VDEF-02.c3d"
+    }, 
+    "Fitting": {
+        "Moment Projection": "Distal", 
+        "Trials": [
+            {
+                "File": "20190517-GBNNN-VDEF-08.c3d", 
+                "Mfpa": "XX"
+            }
+        ]
+    }, 
+    "ModelVersion": "CGM1.0", 
+    "MP": {
+        "Required": {
+            "LeftSoleDelta": 0, 
+            "RightSoleDelta": 0, 
+            "Bodymass": 92, 
+            "Height": 1830, 
+            "LeftLegLength": 970, 
+            "RightLegLength": 980, 
+            "LeftKneeWidth": 110, 
+            "RightKneeWidth": 110, 
+            "LeftAnkleWidth": 70, 
+            "RightAnkleWidth": 70, 
+            "InterAsisDistance": 0, 
+            "LeftAsisTrocanterDistance": 0, 
+            "LeftTibialTorsion": 0, 
+            "LeftThighRotation": 0, 
+            "LeftShankRotation": 0, 
+            "RightAsisTrocanterDistance": 0, 
+            "RightTibialTorsion": 0, 
+            "RightThighRotation": 0, 
+            "RightShankRotation": 0, 
+            "LeftKneeFuncCalibrationOffset": 0, 
+            "RightKneeFuncCalibrationOffset": 0
+        }, 
+        "Optional": {
+            "InterAsisDistance": 283.3686899892921, 
+            "LeftAsisTrocanterDistance": 76.37599999999999, 
+            "LeftTibialTorsion": 0, 
+            "LeftThighRotation": 0, 
+            "LeftShankRotation": 0, 
+            "RightAsisTrocanterDistance": 77.664, 
+            "RightTibialTorsion": 0, 
+            "RightThighRotation": 0, 
+            "RightShankRotation": 0, 
+            "LeftKneeFuncCalibrationOffset": 0, 
+            "RightKneeFuncCalibrationOffset": 0, 
+            "LeftThighRotationOffset": 4.068509267484484e-13, 
+            "RightStaticRotOffset": -0.27732991081735175, 
+            "RightStaticPlantFlexOffset": -9.385241449727237, 
+            "MeanlegLength": 975.0, 
+            "LeftAnkleAbAddOffset": 3.801193544462016e-13, 
+            "LeftStaticPlantFlexOffset": -11.32286242258851, 
+            "LeftStaticRotOffset": 0.5312459589219087, 
+            "PelvisDepth": 191.69507614668228, 
+            "RightThighRotationOffset": 3.117114484511306e-13, 
+            "LeftTibialTorsionOffset": 0, 
+            "rightProjectionAngle_AnkleFlexion_LateralAnkle": 84.93486472748259, 
+            "LeftShankRotationOffset": 3.4488212576764416e-13, 
+            "RightTibialTorsionOffset": 0, 
+            "RightAnkleAbAddOffset": -1.9093232835173463e-12, 
+            "leftProjectionAngle_AnkleFlexion_LateralAnkle": -84.75313785717807, 
+            "RightShankRotationOffset": -1.629963460699902e-12
+        }
+    }
+}

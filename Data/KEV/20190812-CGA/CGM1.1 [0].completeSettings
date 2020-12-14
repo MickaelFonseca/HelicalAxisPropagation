@@ -1,0 +1,193 @@
+{
+    "Global": {
+        "Marker diameter": 14, 
+        "Point suffix": "PyCGM1_1"
+    }, 
+    "Translators": {
+        "LASI": "None", 
+        "RASI": "None", 
+        "LPSI": "None", 
+        "RPSI": "None", 
+        "RTHI": "None", 
+        "RKNE": "None", 
+        "RTIB": "None", 
+        "RANK": "None", 
+        "RMED": "None", 
+        "RHEE": "None", 
+        "RTOE": "None", 
+        "LTHI": "None", 
+        "LKNE": "None", 
+        "LTIB": "None", 
+        "LANK": "None", 
+        "LMED": "None", 
+        "LHEE": "None", 
+        "LTOE": "None", 
+        "C7": "None", 
+        "T10": "None", 
+        "CLAV": "None", 
+        "STRN": "None", 
+        "LFHD": "None", 
+        "LBHD": "None", 
+        "RFHD": "None", 
+        "RBHD": "None", 
+        "LSHO": "None", 
+        "LELB": "None", 
+        "LWRB": "None", 
+        "LWRA": "None", 
+        "LFIN": "None", 
+        "RSHO": "None", 
+        "RELB": "None", 
+        "RWRB": "None", 
+        "RWRA": "None", 
+        "RFIN": "None"
+    }, 
+    "Calibration": {
+        "Left flat foot": true, 
+        "Right flat foot": true, 
+        "StaticTrial": "20190812-SBNNN-VDEF-02.c3d"
+    }, 
+    "Fitting": {
+        "Moment Projection": "Distal", 
+        "Trials": [
+            {
+                "File": "20190812-GBNNN-VDEF-02.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-GBNNN-VDEF-04.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-GBNNN-VDEF-06.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-GBNNN-VDEF-07.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-GBNNN-VDEF-08.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-GBNNN-VDEF-09.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-ABNNN-VDEF-01.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-ABNNN-VDEF-02.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-ABNNN-VDEF-03.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-ABNNN-VDEF-04.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-02.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-03.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-04.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-05.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-06.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-07.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-09.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-10.c3d", 
+                "Mfpa": "XX"
+            }, 
+            {
+                "File": "20190812-MBNNN-VDEF-01.c3d", 
+                "Mfpa": "XX"
+            }
+        ]
+    }, 
+    "ModelVersion": "CGM1.0", 
+    "MP": {
+        "Required": {
+            "Bodymass": 92, 
+            "Height": 1830, 
+            "LeftLegLength": 980, 
+            "RightLegLength": 975, 
+            "LeftKneeWidth": 110, 
+            "RightKneeWidth": 110, 
+            "LeftAnkleWidth": 75, 
+            "RightAnkleWidth": 75, 
+            "LeftSoleDelta": 0, 
+            "RightSoleDelta": 0, 
+            "LeftShoulderOffset": 0, 
+            "LeftElbowWidth": 0, 
+            "LeftWristWidth": 0, 
+            "LeftHandThickness": 0, 
+            "RightShoulderOffset": 0, 
+            "RightElbowWidth": 0, 
+            "RightWristWidth": 0, 
+            "RightHandThickness": 0, 
+            "InterAsisDistance": 0, 
+            "LeftAsisTrocanterDistance": 0, 
+            "LeftTibialTorsion": 0, 
+            "LeftThighRotation": 0, 
+            "LeftShankRotation": 0, 
+            "RightAsisTrocanterDistance": 0, 
+            "RightTibialTorsion": 0, 
+            "RightThighRotation": 0, 
+            "RightShankRotation": 0, 
+            "LeftKneeFuncCalibrationOffset": 0, 
+            "RightKneeFuncCalibrationOffset": 0
+        }, 
+        "Optional": {
+            "InterAsisDistance": 274.7017373090255, 
+            "LeftAsisTrocanterDistance": 77.664, 
+            "LeftTibialTorsion": 0, 
+            "LeftThighRotation": 0, 
+            "LeftShankRotation": 0, 
+            "RightAsisTrocanterDistance": 77.02, 
+            "RightTibialTorsion": 0, 
+            "RightThighRotation": 0, 
+            "RightShankRotation": 0, 
+            "LeftKneeFuncCalibrationOffset": 0, 
+            "RightKneeFuncCalibrationOffset": 0, 
+            "LeftThighRotationOffset": -6.21076074725533e-13, 
+            "RightStaticRotOffset": -0.573725999062606, 
+            "RightStaticPlantFlexOffset": -8.66507098153352, 
+            "MeanlegLength": 977.5, 
+            "LeftAnkleAbAddOffset": -1.711650756295215e-12, 
+            "LeftStaticPlantFlexOffset": -13.734856587605808, 
+            "LeftStaticRotOffset": -1.1845730988920178, 
+            "PelvisDepth": 192.23079130639638, 
+            "RightThighRotationOffset": -6.17431867180552e-13, 
+            "LeftTibialTorsionOffset": 0, 
+            "rightProjectionAngle_AnkleFlexion_LateralAnkle": 84.33575603457517, 
+            "LeftShankRotationOffset": -1.399995026139759e-12, 
+            "RightTibialTorsionOffset": 0, 
+            "RightAnkleAbAddOffset": 1.436125469884042e-12, 
+            "leftProjectionAngle_AnkleFlexion_LateralAnkle": -84.21576409576353, 
+            "RightShankRotationOffset": 1.1921919669482832e-12
+        }
+    }
+}

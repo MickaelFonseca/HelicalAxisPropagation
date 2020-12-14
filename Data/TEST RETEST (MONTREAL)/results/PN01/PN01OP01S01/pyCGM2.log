@@ -1,0 +1,18 @@
+[pyCGM2-INFO]-files-openFile : your file (CGM1_1.userSettings) matches yaml syntax
+[pyCGM2-INFO]-files-openFile : your file (CGM1-pyCGM2.settings) matches yaml syntax
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Calibration=============
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : Static Calibration -----> Done
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Fitting=============
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (PN01OP01S01SS01_CGM1_1.c3d) processed
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Writing of final Settings=============
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->complete settings (CGM1.1 [0].completeSettings) exported
+[pyCGM2-INFO]-files-openFile : your file (CGM1_1.userSettings) matches yaml syntax
+[pyCGM2-INFO]-files-openFile : your file (CGM1-pyCGM2.settings) matches yaml syntax
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Calibration=============
+[pyCGM2-INFO]-cgm-configure : BodyPart found : LowerLimb
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : Static Calibration -----> Done
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Fitting=============
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->dynamic trial (PN01OP01S01SS01_CGM1_1.c3d) processed
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : =============Writing of final Settings=============
+[pyCGM2-INFO]-pyCGM2_CGM11_modelling-main : ---->complete settings (CGM1.1 [1].completeSettings) exported
